@@ -1,0 +1,15 @@
+{
+    "basics": {
+        "name": "Josias Azmitia",
+        "label": "Web Developer",
+        "email": "josiastech@gmail.com",
+        "location": {
+            "address": "Guatemala City",
+            "city": "Guatemala"
+        },
+        "profiles": {
+            "network": "twitter",
+            "username":"josias_e"
+        }
+    }
+}
